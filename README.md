@@ -9,7 +9,7 @@ Domain: Artificial Intelligence
 
 Team ID: PNT2022TMID38214
 
-Team Lead: karuppasamy
+Team Leader: karuppasamy
 
 Team Members: justin, saran, madesh
 
